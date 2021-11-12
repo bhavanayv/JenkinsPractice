@@ -7,5 +7,7 @@ public class CreateContactTest {
 	public void testContact()
 	{
 		System.out.println("contact created");
+		
+		System.out.println("this is to test the schedule feature");
 	}
 }
